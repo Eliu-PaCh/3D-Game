@@ -15,7 +15,7 @@
 
 ![Contributors](https://img.shields.io/github/contributors/Eliu-PaCh/3D-Game?color=dark-green) ![Issues](https://img.shields.io/github/issues/Eliu-PaCh/3D-Game) 
 
-## Table Of Contents
+## Contenido
 
 * [Instrucciones](#Instrucciones)
   * [Prerrequisitos](#Prerrequisitos)
