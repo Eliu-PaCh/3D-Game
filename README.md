@@ -24,11 +24,11 @@
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
-## Getting Started
+## Instrucciones
 
 Instrucciones para ejecutar este proyecto en su equipo.
 
-### Prerequisites
+### Prerrequisitos
 
 Lista de software necesario para ejecutar el proyecto
 
@@ -39,7 +39,7 @@ Lista de software necesario para ejecutar el proyecto
 
 
 
-### Installation
+### Instalación
 
 1. Descargue [Visual Studio](https://visualstudio.microsoft.com/es/downloads/)
 
@@ -55,7 +55,7 @@ git clone https://github.com/Eliu-PaCh/3D-Game.git
 
 Nota: Al clonar o descargar este repositorio obtendrá las librerías de Glut necesarias para ejecutar exitosamente el programa; por lo tanto no tendrá que preocuparse por instalar Glut, incluso el proyecto está configurado con las rutas para que reconozca el directorio de Glut que está en la carpeta `glutdlls37beta`.
 
-## Usage
+## Uso
 
 Después de seguir los pasos de instalación ejecutar el programa es tan sencillo como dar clic en el botón de `run` en Visual Studio.
 
@@ -69,16 +69,9 @@ Para moverse por el mapa del juego utilizará las siguientes teclas:
  `Tecla hacia abajo` para regresar al suelo.
 `+` para capturar las monedas cuando este lo suficientemente cerca de ellas.
 
-### Creating A Pull Request
 
 
-
-## Authors
+## Autores
 
 * **Eliu Palacios Chipule ** - *Estudiante de Ingeniería* - [Eliu Palacios Chipule ](https://github.com/Eliu-PaCh/) - *3D-Game*
 
-## Acknowledgements
-
-* []()
-* []()
-* []()
