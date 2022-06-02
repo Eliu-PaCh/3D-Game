@@ -72,5 +72,7 @@ Para moverse por el mapa del juego utilizará las siguientes teclas:
 
 ## Autores
 
+* **Jennifer Martínez Jiménez ** - *Estudiante de Ingeniería* - [Jennifer Martínez Jiménez ](https://github.com/) - *3D-Game*
+* **Héctor Aldahir López Rodríguez ** - *Estudiante de Ingeniería* - [Héctor Aldahir López Rodríguez ](https://github.com/) - *3D-Game*
 * **Eliu Palacios Chipule ** - *Estudiante de Ingeniería* - [Eliu Palacios Chipule ](https://github.com/Eliu-PaCh/) - *3D-Game*
 
