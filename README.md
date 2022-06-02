@@ -17,12 +17,11 @@
 
 ## Table Of Contents
 
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
+* [Instrucciones](#Instrucciones)
+  * [Prerrequisitos](#Prerrequisitos)
+  * [Instalación](#Instalación)
+* [Uso](#Uso)
+* [Autores](#Autores)
 
 ## Instrucciones
 
