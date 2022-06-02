@@ -56,7 +56,7 @@ Nota: Al clonar o descargar este repositorio obtendrá las librerías de Glut ne
 
 ## Uso
 
-Después de seguir los pasos de instalación ejecutar el programa es tan sencillo como dar clic en el botón de `run` en Visual Studio.
+Después de seguir los pasos de instalación, ejecutar el programa es tan sencillo como dar clic en el botón de `run` en Visual Studio.
 
 Cuando el juego inicie tendrá que conseguir 6 puntos antes de que el reloj llegue a cero para ganar, los puntos se consiguen capturando monedas.
 
