@@ -7,7 +7,7 @@
   <h3 align="center">3D-Game</h3>
 
   <p align="center">
-    Juego en 3D realizado para la materia Graficación usando c++ y Glut
+    Juego en 3D realizado para la materia de Graficación usando c++ y Glut
     <br/>
     <br/>
   </p>
